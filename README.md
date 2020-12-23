@@ -1,0 +1,2 @@
+# plgWebcheckout
+plugin WebCheckout Wordpress
