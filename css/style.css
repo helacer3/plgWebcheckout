@@ -1,0 +1,22 @@
+#cnt_profile,
+#urlRefered,
+#urlCopied,
+#cnt_profile #cnt_frmprofile {
+	box-sizing: border-box;
+	float: left;
+	position: relative;
+	display: inline-block;
+	width: 100%;
+}
+#urlRefered {
+	margin-top: 11px;
+	display: none;
+	color: #cd2653;
+	background-color: white;
+	/*border: 2px inset gray;*/
+	text-align: center;
+	cursor: pointer;
+}
+#urlCopied {
+	background-color: red;
+}
